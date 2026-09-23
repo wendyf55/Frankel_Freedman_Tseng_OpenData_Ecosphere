@@ -20,22 +20,36 @@ Affiliations
 ## Data file and column heading descriptions
 
 1. Lab-monarch-data-for-archiving-Ecosphere.csv
+
 Monarch_ID – unique identifier for individual monarch butterflies
+
 Plant_ID – unique identifier for individual milkweed plants
+
 Milkweed_species – species of milkweed tested. A = Asclepias, G = Gomphocarpus
+
 Monarch_family – lineage of individual monarchs
+
 Monarch_sex – monarch sex (male, female)
+
 Caterpillar_proportion_black – proportion of black colouration on 5th instar caterpillar (see Methods for more details)
+
 Adult_percent_black – percentage of black on the adult monarch forewing
+
 Adult_wingsize_mm2 – size of adult forewing, in mm2
+
 Adult_wing_measured – which wing was measured (left, right)
+
 Wing_aspect_ratio – forewing length divided by forewing width
+
 Milkweed_cardenolide_category – cardenolides were not measured in this study. We used previous literature to classify plant species into ‘low, medium, and high’ cardenolies. See Discsussion for more details)
+
 Monarch_development_time_days – number of days from first instar to eclosion
+
 Monarch_growth_rate – wing size divided by development time
+
 Experiment_type – greenhouse or lab
 
-2. Monarch-greenhouse-data-for-archiving-Ecosphere.csv
+3. Monarch-greenhouse-data-for-archiving-Ecosphere.csv
 
 Monarch_ID – unique identifier for individual monarchs
 Temperature_treatment – ‘cold’ = 22C/16C day/night; warm – 32C/26C day/night
