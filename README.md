@@ -52,16 +52,27 @@ Experiment_type – greenhouse or lab
 3. Monarch-greenhouse-data-for-archiving-Ecosphere.csv
 
 Monarch_ID – unique identifier for individual monarchs
+
 Temperature_treatment – ‘cold’ = 22C/16C day/night; warm – 32C/26C day/night
+
 Monarch_family - lineage of individual monarchs
+
 Monarch_sex – monarch sex (male, female)
+
 Caterpillar_proportion_black – proportion of black colouration on 5th instar caterpillar (see Methods for more details)
+
 Adult_percent_black – percentage of black on the adult monarch forewing
+
 Adult_wingsize_mm2 – size of adult forewing, in mm2
+
 Adult_wing_measured – which wing was measured (left, right)
+
 Wing_aspect_ratio – forewing length divided by forewing width
+
 Monarch_development_time_days – number of days from egg lay to pupation
+
 Monarch_growth_rate - wing size divided by development time
+
 Experiment_type – greenhouse or lab
 
 ### Citation
