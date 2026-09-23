@@ -2,7 +2,7 @@
 
 ## Sex-specific costs of melanization in a widespread butterfly species
 
-Code and data accompanying:
+Data accompanying:
 
 > Frankel, W., Freedman, M., Tseng, M. (2026). Sex-specific costs of melanization in a widespread butterfly species. *Ecosphere*.
 
